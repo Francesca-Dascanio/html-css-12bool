@@ -11,4 +11,14 @@
     color: white;
     text-align: center;
     padding: 5px 0px;
+    margin-right: 3px;
+    font-size: 0.8rem;
+}
+
+.margin-nested-row {
+    margin: 0 10px;
+}
+
+.separatore {
+    height: 16px;
 }
