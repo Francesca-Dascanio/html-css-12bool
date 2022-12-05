@@ -1,0 +1,14 @@
+.blue {
+    background-color: #006cfa;
+    border: 1px solid white;
+    color: white;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.green {
+    background-color:#00e165;
+    color: white;
+    text-align: center;
+    padding: 5px 0px;
+}
